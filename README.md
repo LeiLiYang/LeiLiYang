@@ -1,9 +1,13 @@
 ## Hi there 👋
-My name is Li Yang! I love everything tech-related, and it happens that I study software engineering 😄
+My name is Li Yang! I love problem-solving and everything tech-related, that's why I chose to study software engineering 😄
+
+🎓 Graduated in May 2026. Open to Early Career opportunities! 
 
 💻 Experienced with Java, Python, JavaScript, HTML/CSS, React 
 
 🎫 Previously interned at Amazon
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/liyanglei)!
 
 <!--
 **LeiLiYang/LeiLiYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
